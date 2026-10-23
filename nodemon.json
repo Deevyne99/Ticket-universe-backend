@@ -1,0 +1,5 @@
+{
+  "watch": ["controllers", "routes", "utils", "index.ts"],
+  "ext": "ts,js",
+  "exec": "npx ts-node index.ts"
+}
